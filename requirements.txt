@@ -1,0 +1,2 @@
+Cython==0.29.33
+git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
