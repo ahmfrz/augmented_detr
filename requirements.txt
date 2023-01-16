@@ -1,2 +1,12 @@
 Cython==0.29.33
+numpy==1.17.4
+pandas==1.5.2
+matplotlib==3.6.2
+opencv-python==4.7.0.68
+tensorflow==2.11.0
+scikit-image==0.19.3
 git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
+pycocotools==2.0.6
+git+https://github.com/huggingface/transformers.git 
+timm
+pytorch-lightning==1.8.6
