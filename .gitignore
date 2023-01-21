@@ -130,8 +130,9 @@ dmypy.json
 .pyre/
 
 # data
-src/notebooks/data/**
+src/notebooks/data/coco/images/**
+src/notebooks/data/coco/annotations/all/**
+src/notebooks/data/voc/**
 *.zip
 *.tar
-*.jpg
 src/notebooks/lightning_logs/**
