@@ -136,3 +136,4 @@ src/notebooks/data/voc/**
 *.zip
 *.tar
 src/notebooks/lightning_logs/**
+backup
